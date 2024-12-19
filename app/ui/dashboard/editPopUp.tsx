@@ -1,4 +1,4 @@
-import { EStatus, EType, IModalProps } from "@/interface";
+import { EStatus, EType, IModalProps } from "@/app/interfaces/interface";
 import { useEffect, useState } from "react";
 
  const EditPopUp: React.FC<IModalProps> = ({ item, onClose, onUpdate }) =>  {

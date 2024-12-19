@@ -1,5 +1,5 @@
 "use client";
-import { EStatus, EType, ITodo } from "@/interface";
+import { EStatus, EType, ITodo } from "@/app/interfaces/interface";
 import React, { useState } from "react";
 import { FaPen, FaTrashAlt } from "react-icons/fa";
 import EditPopUp from "./editPopUp";

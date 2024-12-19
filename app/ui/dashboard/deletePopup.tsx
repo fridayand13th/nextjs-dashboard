@@ -1,4 +1,4 @@
-import { IModalProps } from "@/interface";
+import { IModalProps } from "@/app/interfaces/interface";
 
  const DeletePopUp: React.FC<IModalProps> = ({ item, onClose, onUpdate }) =>  {
    

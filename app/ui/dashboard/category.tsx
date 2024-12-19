@@ -1,4 +1,4 @@
-import { EType, StatisticTypeProps } from "@/interface";
+import { EType, StatisticTypeProps } from "@/app/interfaces/interface";
 
 export default function Categories({ todoCountsByType }: StatisticTypeProps) {
   return (

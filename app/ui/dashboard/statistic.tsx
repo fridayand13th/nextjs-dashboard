@@ -1,4 +1,4 @@
-import { EStatus, StatisticStatusProps } from "@/interface";
+import { EStatus, StatisticStatusProps } from "@/app/interfaces/interface";
 
 export default function Statistics( { todoCountsByStatus }: StatisticStatusProps) {
     return (

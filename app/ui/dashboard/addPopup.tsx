@@ -1,4 +1,4 @@
-import { EStatus, EType, IAddModalProps, ITodo } from "@/interface";
+import { EStatus, EType, IAddModalProps, ITodo } from "@/app/interfaces/interface";
 import { ExclamationCircleIcon } from "@heroicons/react/24/outline";
 import { useRef, useState, useEffect } from "react";
 
